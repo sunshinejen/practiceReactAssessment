@@ -2,7 +2,6 @@
 
   
 # Project Overview #
-- [Project Overview](#project-overview)
 - [Project Details](#project-details)
 - [Install](#install)
 - [Bugs](#bugs)
