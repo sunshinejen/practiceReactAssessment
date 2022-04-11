@@ -6,7 +6,6 @@ function TagInput(props) {
 
     const [tagInputValue, setTagInputValue] = useState('');
 
-     //tag takes in empty and duplicate tags
      const onTagInputKeyPress = (e) => {
          if (e.key === 'Enter') {
             props.onTagSet(tagInputValue);

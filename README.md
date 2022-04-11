@@ -18,8 +18,10 @@
 
 # Install
 ```bash
-git clone https://github.com/<username>/<repo-name>.git
+git clone https://github.com/sunshinejen/practiceReactAssessment.git
+
 npm install # or yarn install
+
 npm start  
 ```
 App should be running on http://localhost:3000 
